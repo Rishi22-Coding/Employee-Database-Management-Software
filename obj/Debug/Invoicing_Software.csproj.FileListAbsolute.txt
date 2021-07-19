@@ -1,0 +1,38 @@
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\bin\Debug\Invoicing_Software.exe.config
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\bin\Debug\Invoicing_Software.exe
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\bin\Debug\Invoicing_Software.pdb
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.csprojAssemblyReference.cache
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.frmAdminDashboard.resources
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.Properties.Resources.resources
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.csproj.GenerateResource.cache
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.exe
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.pdb
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.frmUserDashboard.resources
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmUsers.resources
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmLogin.resources
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmCategories.resources
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmProducts.resources
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmDlrCustmr.resources
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmPurchaseandSales.resources
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmTransactions.resources
+E:\PROGRAMMING AND PROJECTS\PROJECTS\BCA 3rd YR\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmInventory.resources
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\bin\Debug\Invoicing_Software.exe.config
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\bin\Debug\Invoicing_Software.exe
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\bin\Debug\Invoicing_Software.pdb
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.csproj.AssemblyReference.cache
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.frmAdminDashboard.resources
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmCategories.resources
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmDlrCustmr.resources
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmInventory.resources
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmLogin.resources
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmProducts.resources
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmPurchaseandSales.resources
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmTransactions.resources
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.frmUserDashboard.resources
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.Properties.Resources.resources
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.UserInterface.frmUsers.resources
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.csproj.GenerateResource.cache
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.exe
+E:\PROJECTS\Invoice Generating Software\Invoicing Software\Invoicing_Software\obj\Debug\Invoicing_Software.pdb
